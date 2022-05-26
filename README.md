@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on researching a history of the people and teams that made great software -- [lanscapes.substack.com](lanscapes.substack.com)
+- 🌱 I’m currently learning [Computer Science with OSSU](https://github.com/ossu/computer-science), backend development, maths
+- 📫 How to reach me: [helenadw.com](helenadw.com), @helenadw everywhere
+
 
 <!--
 **hcdw/hcdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
