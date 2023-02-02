@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on researching a history of the people and teams that made great software -- [lanscapes.substack.com](lanscapes.substack.com)
 - 🌱 I’m currently learning [Computer Science with OSSU](https://github.com/ossu/computer-science)
 - 📫 How to reach me: [helenadw.com](helenadw.com), @helenadw everywhere
 
