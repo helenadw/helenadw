@@ -27,4 +27,14 @@ wheels.
 
 ---
 
+### <img src="assets/tend.png" height="28" align="center" alt="" /> Tend
+
+A cleaning schedule for iPhone. Set how often each room needs attention and Tend
+tells you what to clean today, so the rest of your home stays on track without
+the guesswork.
+
+[tendathome.com →](https://tendathome.com)
+
+---
+
 Available for AI & workflow automation consulting → [Ops & AI](https://opsandai.helenadw.com)
